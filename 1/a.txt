@@ -1,3 +1,0 @@
- my name is pankaj and i am practicing git commands
- it is been good to learn aws devops
- 
